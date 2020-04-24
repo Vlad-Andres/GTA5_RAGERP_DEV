@@ -1,0 +1,59 @@
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 24/04/2020 22:05:53
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting welcomemessages resource..
+welcomemessages: loading scripts.. found 1 script(s)
+welcomemessages: compiling scripts..
+welcomemessages: instantiating WelcomeMessages..
+welcomemessages: loading server events.. found 2 server event(s)
+welcomemessages: loaded 2 server events(s)
+-> Resource welcomemessages started!
+-> Starting test resource..
+test: 'meta.xml' is missing, creating a default resource template..
+test: loading scripts.. found 1 script(s)
+test: compiling scripts..
+test: instantiating test.Main..
+test: loading server events.. found 1 server event(s)
+test: loaded 1 server events(s)
+Hello World!
+-> Resource test started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 24/04/2020 22:09:56
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting welcomemessages resource..
+welcomemessages: loading scripts.. found 1 script(s)
+welcomemessages: compiling scripts..
+welcomemessages: instantiating WelcomeMessages..
+welcomemessages: loading server events.. found 2 server event(s)
+welcomemessages: loaded 2 server events(s)
+-> Resource welcomemessages started!
+-> Starting test resource..
+test: loading scripts.. found 1 script(s)
+test: compiling scripts..
+test: instantiating test.Main..
+test: loading server events.. found 1 server event(s)
+test: loaded 1 server events(s)
+Hello World2!
+-> Resource test started!
+Started! Waiting for connections..
