@@ -8,7 +8,9 @@ namespace test
         [ServerEvent(Event.ResourceStart)]
         public void ResourceStart()
         {
-            NAPI.Util.ConsoleOutput("Hello World2!");
+            NAPI.Util.ConsoleOutput("Hello World2 (mines)!");
         }
+       
+        
     }
 }

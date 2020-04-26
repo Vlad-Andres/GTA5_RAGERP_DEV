@@ -57,3 +57,119 @@ test: loaded 1 server events(s)
 Hello World2!
 -> Resource test started!
 Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 26/04/2020 12:40:43
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting welcomemessages resource..
+welcomemessages: loading scripts.. found 1 script(s)
+welcomemessages: compiling scripts..
+welcomemessages: instantiating WelcomeMessages..
+welcomemessages: loading server events.. found 2 server event(s)
+welcomemessages: loaded 2 server events(s)
+-> Resource welcomemessages started!
+-> Starting test resource..
+test: loading scripts.. found 1 script(s)
+test: compiling scripts..
+test: instantiating test.Main..
+test: loading server events.. found 1 server event(s)
+test: loaded 1 server events(s)
+test: loading commands.. found 1 command(s)
+test: loaded 1 commands(s)
+Hello World2 (mines)!
+-> Resource test started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 26/04/2020 12:45:08
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting welcomemessages resource..
+welcomemessages: loading scripts.. found 1 script(s)
+welcomemessages: compiling scripts..
+welcomemessages: instantiating WelcomeMessages..
+welcomemessages: loading server events.. found 2 server event(s)
+welcomemessages: loaded 2 server events(s)
+-> Resource welcomemessages started!
+-> Starting test resource..
+test: loading scripts.. found 1 script(s)
+test: compiling scripts..
+test: instantiating test.Main..
+test: loading server events.. found 1 server event(s)
+test: loaded 1 server events(s)
+test: loading commands.. found 1 command(s)
+test: loaded 1 commands(s)
+Hello World2 (mines)!
+-> Resource test started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 26/04/2020 16:57:06
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting GTA_RP resource..
+-> Error starting 'GTA_RP'
+System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <config xmlns=''> was not expected.
+   at object Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResourceInfo.Read15_meta()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at GTANetworkInternals.GameServer.StartResource(String resourceName, String parent)
+
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 26/04/2020 16:58:21
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting GTA_RP resource..
+-> Error starting 'GTA_RP'
+System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <config xmlns=''> was not expected.
+   at object Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResourceInfo.Read15_meta()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at GTANetworkInternals.GameServer.StartResource(String resourceName, String parent)
+
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 26/04/2020 17:00:28
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 26/04/2020 17:02:17
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting GTA_RP resource..
+GTA_RP: loading scripts.. found 1 script(s)
+GTA_RP: instantiating GTA_RP.Main..
+GTA_RP: loading server events.. found 1 server event(s)
+GTA_RP: loaded 1 server events(s)
+Hello from visual studio
+-> Resource GTA_RP started!
+Started! Waiting for connections..

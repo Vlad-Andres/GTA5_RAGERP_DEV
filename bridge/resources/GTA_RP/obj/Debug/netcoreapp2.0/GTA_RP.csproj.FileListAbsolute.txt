@@ -1,0 +1,16 @@
+D:\GTA RP DEV\Projects\GTA_RP\GTA_RP\GTA_RP\bin\Debug\netcoreapp2.0\GTA_RP.deps.json
+D:\GTA RP DEV\Projects\GTA_RP\GTA_RP\GTA_RP\bin\Debug\netcoreapp2.0\GTA_RP.dll
+D:\GTA RP DEV\Projects\GTA_RP\GTA_RP\GTA_RP\obj\Debug\netcoreapp2.0\GTA_RP.csprojAssemblyReference.cache
+D:\GTA RP DEV\Projects\GTA_RP\GTA_RP\GTA_RP\obj\Debug\netcoreapp2.0\GTA_RP.AssemblyInfoInputs.cache
+D:\GTA RP DEV\Projects\GTA_RP\GTA_RP\GTA_RP\obj\Debug\netcoreapp2.0\GTA_RP.AssemblyInfo.cs
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\GTA_RP.deps.json
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\GTA_RP.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\GTA_RP.pdb
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\obj\Debug\netcoreapp2.0\GTA_RP.csprojAssemblyReference.cache
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\obj\Debug\netcoreapp2.0\GTA_RP.AssemblyInfoInputs.cache
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\obj\Debug\netcoreapp2.0\GTA_RP.AssemblyInfo.cs
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\obj\Debug\netcoreapp2.0\GTA_RP.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\obj\Debug\netcoreapp2.0\GTA_RP.pdb
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\GTA_RP.runtimeconfig.json
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\GTA_RP.runtimeconfig.dev.json
+D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\obj\Debug\netcoreapp2.0\GTA_RP.genruntimeconfig.cache

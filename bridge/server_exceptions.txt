@@ -1,0 +1,40 @@
+
+==================[26/04/2020 16:57:09]==================
+System.InvalidOperationException: <config xmlns=''> was not expected.
+   at object Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResourceInfo.Read15_meta()
+=========================================================
+
+==================[26/04/2020 16:57:09]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: <config xmlns=''> was not expected.
+   at object Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResourceInfo.Read15_meta()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[26/04/2020 16:57:09]==================
+System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <config xmlns=''> was not expected.
+   at object Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResourceInfo.Read15_meta()
+   --- End of inner exception stack trace ---
+   at object System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, string encodingStyle, XmlDeserializationEvents events)
+=========================================================
+
+==================[26/04/2020 16:58:22]==================
+System.InvalidOperationException: <config xmlns=''> was not expected.
+   at object Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResourceInfo.Read15_meta()
+=========================================================
+
+==================[26/04/2020 16:58:22]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: <config xmlns=''> was not expected.
+   at object Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResourceInfo.Read15_meta()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[26/04/2020 16:58:22]==================
+System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <config xmlns=''> was not expected.
+   at object Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResourceInfo.Read15_meta()
+   --- End of inner exception stack trace ---
+   at object System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, string encodingStyle, XmlDeserializationEvents events)
+=========================================================
