@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8y4AyuWFHbac7HdmwLExpqM29NdJF7k/ckf4qVAl9X07ksrOh+W7Nt2RpH2/GrWK0MRNBuRFuyqkiyvZL1i1AQ==",
+  "success": true,
+  "projectFilePath": "D:\\GTA RP DEV\\server\\server-files\\bridge\\resources\\trueRp\\trueRp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.netcore.app\\2.0.3\\microsoft.netcore.app.2.0.3.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.3\\microsoft.netcore.dotnetapphost.2.0.3.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.3\\microsoft.netcore.dotnethostpolicy.2.0.3.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.3\\microsoft.netcore.dotnethostresolver.2.0.3.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.1\\microsoft.netcore.platforms.2.0.1.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\sqlite.interop.dll\\1.0.103\\sqlite.interop.dll.1.0.103.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\system.data.sqlite.core\\1.0.112.2\\system.data.sqlite.core.1.0.112.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,53 @@
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\trueRp.deps.json
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\trueRp.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\trueRp.pdb
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Colorful.Console.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Ben.Demystifier.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\NeoSmart.Hashing.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\xxHash.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Bootstrapper.pdb
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Bootstrapper.xml
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.csprojAssemblyReference.cache
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.AssemblyInfoInputs.cache
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.AssemblyInfo.cs
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.csproj.CopyComplete
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.dll
+C:\Users\Vlad\Downloads\GTA5_RAGERP_DEV-master\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.pdb
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\trueRp.deps.json
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\trueRp.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\trueRp.pdb
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Colorful.Console.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Ben.Demystifier.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\NeoSmart.Hashing.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\xxHash.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Bootstrapper.pdb
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\Bootstrapper.xml
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.csprojAssemblyReference.cache
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.csproj.CoreCompileInputs.cache
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.AssemblyInfoInputs.cache
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.AssemblyInfo.cs
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.csproj.CopyComplete
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\obj\Debug\netcoreapp2.0\trueRp.pdb
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\System.Data.SQLite.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll

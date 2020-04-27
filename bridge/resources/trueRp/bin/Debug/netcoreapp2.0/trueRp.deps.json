@@ -1,0 +1,223 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "trueRp/1.0.0": {
+        "dependencies": {
+          "SQLite.Interop.dll": "1.0.103",
+          "System.Data.SQLite.Core": "1.0.112.2",
+          "Bootstrapper": "0.3.5.1"
+        },
+        "runtime": {
+          "trueRp.dll": {}
+        }
+      },
+      "SQLite.Interop.dll/1.0.103": {},
+      "System.Data.SQLite.Core/1.0.112.2": {
+        "runtime": {
+          "lib/netstandard2.0/System.Data.SQLite.dll": {
+            "assemblyVersion": "1.0.112.1",
+            "fileVersion": "1.0.112.1"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/netstandard2.0/SQLite.Interop.dll": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/netstandard2.1/SQLite.Interop.dll": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/netstandard2.0/SQLite.Interop.dll": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/netstandard2.1/SQLite.Interop.dll": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/netstandard2.0/SQLite.Interop.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.112.1"
+          },
+          "runtimes/win-x64/native/netstandard2.1/SQLite.Interop.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.112.1"
+          },
+          "runtimes/win-x86/native/netstandard2.0/SQLite.Interop.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.112.1"
+          },
+          "runtimes/win-x86/native/netstandard2.1/SQLite.Interop.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.112.1"
+          }
+        }
+      },
+      "Bootstrapper/0.3.5.1": {
+        "runtime": {
+          "Bootstrapper.dll": {
+            "assemblyVersion": "0.3.5.1",
+            "fileVersion": "0.3.5.1"
+          }
+        }
+      },
+      "Colorful.Console/1.2.6.0": {
+        "runtime": {
+          "Colorful.Console.dll": {
+            "assemblyVersion": "1.2.6.0",
+            "fileVersion": "1.2.6.0"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis/2.6.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.dll": {
+            "assemblyVersion": "2.6.0.0",
+            "fileVersion": "2.6.0.62329"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.CSharp/2.6.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.CSharp.dll": {
+            "assemblyVersion": "2.6.0.0",
+            "fileVersion": "2.6.0.62329"
+          }
+        }
+      },
+      "Newtonsoft.Json/10.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.3.21018"
+          }
+        }
+      },
+      "Ben.Demystifier/0.1.0.0": {
+        "runtime": {
+          "Ben.Demystifier.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.61280"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.VisualBasic/2.6.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.VisualBasic.dll": {
+            "assemblyVersion": "2.6.0.0",
+            "fileVersion": "2.6.0.62329"
+          }
+        }
+      },
+      "NeoSmart.Hashing/0.1.0.0": {
+        "runtime": {
+          "NeoSmart.Hashing.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
+      "xxHash/0.3.0.0": {
+        "runtime": {
+          "xxHash.dll": {
+            "assemblyVersion": "0.3.0.0",
+            "fileVersion": "0.3.0.0"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/4.0.2.0": {
+        "runtime": {
+          "System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.6.24705.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trueRp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SQLite.Interop.dll/1.0.103": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Oi8SPxHOMzQ8a17t/qUCD3T+pmidxrdV7Aj0kUnxciO9XogHmZsNFDxla6emGtewZIuTpWJJLolD53YlHOmRKw==",
+      "path": "sqlite.interop.dll/1.0.103",
+      "hashPath": "sqlite.interop.dll.1.0.103.nupkg.sha512"
+    },
+    "System.Data.SQLite.Core/1.0.112.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iYj32NThg9oSr/0IvG0HEIVi5/x5qqdqAU4wu8sSYe94e8F+QbrXmsrP/tvWTre4ugkgTgdmPsJdtxDP4TIsEg==",
+      "path": "system.data.sqlite.core/1.0.112.2",
+      "hashPath": "system.data.sqlite.core.1.0.112.2.nupkg.sha512"
+    },
+    "Bootstrapper/0.3.5.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Colorful.Console/1.2.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis/2.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.CSharp/2.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ben.Demystifier/0.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.VisualBasic/2.6.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NeoSmart.Hashing/0.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "xxHash/0.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Text.Encoding.CodePages/4.0.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

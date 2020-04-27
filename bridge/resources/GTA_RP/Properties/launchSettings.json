@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "GTA_RP": {
-      "commandName": "Executable",
-      "executablePath": "D:\\GTA RP DEV\\server\\server-files\\server.exe",
-      "workingDirectory": "D:\\GTA RP DEV\\server\\server-files"
-    }
-  }
-}

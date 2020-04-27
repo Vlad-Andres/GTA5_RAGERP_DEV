@@ -1,0 +1,7 @@
+<meta>
+    <info name="My RP" description="My C# bridge gamemode Resource" />
+    <!-- Uncompiled: -->
+    <!-- <script src="Class1.cs" /> -->
+    <!-- Compiled: -->
+    <script src="bin/Debug/netcoreapp2.0/trueRp.dll" />
+</meta>

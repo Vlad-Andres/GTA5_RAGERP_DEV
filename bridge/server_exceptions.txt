@@ -38,3 +38,836 @@ System.InvalidOperationException: There is an error in XML document (2, 2). --->
    --- End of inner exception stack trace ---
    at object System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, string encodingStyle, XmlDeserializationEvents events)
 =========================================================
+
+==================[27/04/2020 14:29:12]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 14:29:12]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 14:29:12]==================
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at RuntimeType[] System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at Type[] System.Reflection.Assembly.GetTypes()
+=========================================================
+
+==================[27/04/2020 14:58:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 14:58:07]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 14:58:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 14:58:07]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 14:58:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 14:58:07]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 14:58:07]==================
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at RuntimeType[] System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at Type[] System.Reflection.Assembly.GetTypes()
+=========================================================
+
+==================[27/04/2020 15:04:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 15:04:23]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 15:04:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 15:04:23]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 15:04:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 15:04:23]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 15:04:23]==================
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at RuntimeType[] System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at Type[] System.Reflection.Assembly.GetTypes()
+=========================================================
+
+==================[27/04/2020 15:04:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 15:04:46]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 15:04:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 15:04:46]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 15:04:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 15:04:46]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 15:04:46]==================
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at RuntimeType[] System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at Type[] System.Reflection.Assembly.GetTypes()
+=========================================================
+
+==================[27/04/2020 23:07:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:07:58]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 23:07:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:07:58]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.Relational.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 23:07:58]==================
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at RuntimeType[] System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at Type[] System.Reflection.Assembly.GetTypes()
+=========================================================
+
+==================[27/04/2020 23:08:59]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:08:59]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Interactive.Async, Version=3.2.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263'. The system cannot find the file specified.
+   at void GTA_RP.Main.OnResourceStart()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[27/04/2020 23:09:48]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:09:48]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at new Microsoft.EntityFrameworkCore.DbContext(DbContextOptions options)
+   at new GTA_RP.DefaultDbContext()
+
+
+=========================================================
+
+==================[27/04/2020 23:10:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:10:14]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Interactive.Async, Version=3.2.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263'. The system cannot find the file specified.
+   at void GTA_RP.Main.OnResourceStart()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[27/04/2020 23:12:12]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:12:12]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at new Microsoft.EntityFrameworkCore.DbContext(DbContextOptions options)
+   at new GTA_RP.DefaultDbContext()
+
+
+=========================================================
+
+==================[27/04/2020 23:13:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:13:21]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.DependencyInjection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.DependencyInjection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at IServiceProvider Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.GetOrAdd(IDbContextOptions options, bool providerRequired)+(long k) => { }
+   at TValue System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.GetOrAdd(TKey key, Func<TKey, TValue> valueFactory)
+
+
+=========================================================
+
+==================[27/04/2020 23:16:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:16:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:16:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:16:44]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Logging.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.Logging.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+
+
+=========================================================
+
+==================[27/04/2020 23:17:44]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Logging.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+   at IServiceProvider Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.GetOrAdd(IDbContextOptions options, bool providerRequired)+(long k) => { }
+   at TValue System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.GetOrAdd(TKey key, Func<TKey, TValue> valueFactory)
+   at IServiceProvider Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.GetOrAdd(IDbContextOptions options, bool providerRequired)
+   at new Microsoft.EntityFrameworkCore.DbContext(DbContextOptions options)
+   at new GTA_RP.DefaultDbContext()
+   at void GTA_RP.Main.OnResourceStart() in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\Main.cs:line 11
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[27/04/2020 23:17:51]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:17:51]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Logging, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.Logging, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+
+
+=========================================================
+
+==================[27/04/2020 23:18:20]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Logging, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+   at IServiceProvider Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.GetOrAdd(IDbContextOptions options, bool providerRequired)+(long k) => { }
+   at TValue System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.GetOrAdd(TKey key, Func<TKey, TValue> valueFactory)
+   at IServiceProvider Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.GetOrAdd(IDbContextOptions options, bool providerRequired)
+   at new Microsoft.EntityFrameworkCore.DbContext(DbContextOptions options)
+   at new GTA_RP.DefaultDbContext()
+   at void GTA_RP.Main.OnResourceStart() in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\Main.cs:line 11
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[27/04/2020 23:20:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:20:32]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Logging, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.Logging, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+
+
+=========================================================
+
+==================[27/04/2020 23:21:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:21:04]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b'. The system cannot find the file specified.
+File name: 'Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b'
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+
+
+=========================================================
+
+==================[27/04/2020 23:21:55]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:21:55]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.EntityFrameworkCore.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+
+
+=========================================================
+
+==================[27/04/2020 23:22:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Diagnostics.DiagnosticSource'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:22:32]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Diagnostics.DiagnosticSource, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. The system cannot find the file specified.
+File name: 'System.Diagnostics.DiagnosticSource, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+
+
+=========================================================
+
+==================[27/04/2020 23:24:06]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Diagnostics.DiagnosticSource'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:24:06]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Diagnostics.DiagnosticSource, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. The system cannot find the file specified.
+File name: 'System.Diagnostics.DiagnosticSource, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+
+
+=========================================================
+
+==================[27/04/2020 23:25:08]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:25:08]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Caching.Memory, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.Caching.Memory, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+   at bool Microsoft.EntityFrameworkCore.Internal.ServiceProviderCache.ApplyServices(IDbContextOptions options, ServiceCollection services)
+
+
+=========================================================
+
+==================[27/04/2020 23:25:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:25:44]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Options, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.Options, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at IServiceCollection Microsoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions.AddMemoryCache(IServiceCollection services)
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+
+
+=========================================================
+
+==================[27/04/2020 23:26:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:26:10]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Caching.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.Caching.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at IServiceCollection Microsoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions.AddMemoryCache(IServiceCollection services)
+   at EntityFrameworkServicesBuilder Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.TryAddCoreServices()
+
+
+=========================================================
+
+==================[27/04/2020 23:26:36]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:26:36]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Primitives, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+   at new Microsoft.Extensions.Options.OptionsMonitor<TOptions>(IOptionsFactory<TOptions> factory, IEnumerable<IOptionsChangeTokenSource<TOptions>> sources, IOptionsMonitorCache<TOptions> cache)
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[27/04/2020 23:26:36]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.Primitives, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.Primitives, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at new Microsoft.Extensions.Options.OptionsMonitor<TOptions>(IOptionsFactory<TOptions> factory, IEnumerable<IOptionsChangeTokenSource<TOptions>> sources, IOptionsMonitorCache<TOptions> cache)
+   at void System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+
+
+=========================================================
+
+==================[27/04/2020 23:27:09]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Pomelo.EntityFrameworkCore.MySql'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:27:09]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Pomelo.EntityFrameworkCore.MySql.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\bin\Debug\netcoreapp2.0\Pomelo.EntityFrameworkCore.MySql.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[27/04/2020 23:27:09]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Pomelo.EntityFrameworkCore.MySql, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'Pomelo.EntityFrameworkCore.MySql, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null'
+   at void GTA_RP.DefaultDbContext.OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+   at IServiceProvider Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+
+
+=========================================================
+
+==================[27/04/2020 23:29:02]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySqlConnector'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:29:02]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'MySqlConnector, Version=0.49.2.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92'. The system cannot find the file specified.
+File name: 'MySqlConnector, Version=0.49.2.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92'
+   at DbContextOptionsBuilder Microsoft.EntityFrameworkCore.MySqlDbContextOptionsExtensions.UseMySql(DbContextOptionsBuilder optionsBuilder, string connectionString, Action<MySqlDbContextOptionsBuilder> mySqlOptionsAction)
+   at void GTA_RP.DefaultDbContext.OnConfiguring(DbContextOptionsBuilder optionsBuilder) in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\DbContext.cs:line 13
+
+
+=========================================================
+
+==================[27/04/2020 23:31:43]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySqlConnector'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:31:43]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'MySqlConnector, Version=0.49.2.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92'. The system cannot find the file specified.
+File name: 'MySqlConnector, Version=0.49.2.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92'
+   at DbContextOptionsBuilder Microsoft.EntityFrameworkCore.MySqlDbContextOptionsExtensions.UseMySql(DbContextOptionsBuilder optionsBuilder, string connectionString, Action<MySqlDbContextOptionsBuilder> mySqlOptionsAction)
+   at void GTA_RP.DefaultDbContext.OnConfiguring(DbContextOptionsBuilder optionsBuilder) in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\DbContext.cs:line 13
+
+
+=========================================================
+
+==================[27/04/2020 23:32:13]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.Common'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:32:13]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Data.Common, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. The system cannot find the file specified.
+File name: 'System.Data.Common, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at DbContextOptionsBuilder Microsoft.EntityFrameworkCore.MySqlDbContextOptionsExtensions.UseMySql(DbContextOptionsBuilder optionsBuilder, string connectionString, Action<MySqlDbContextOptionsBuilder> mySqlOptionsAction)
+   at void GTA_RP.DefaultDbContext.OnConfiguring(DbContextOptionsBuilder optionsBuilder) in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\DbContext.cs:line 13
+
+
+=========================================================
+
+==================[27/04/2020 23:36:46]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Data.Common, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. The system cannot find the file specified.
+   at DbContextOptionsBuilder Microsoft.EntityFrameworkCore.MySqlDbContextOptionsExtensions.UseMySql(DbContextOptionsBuilder optionsBuilder, string connectionString, Action<MySqlDbContextOptionsBuilder> mySqlOptionsAction)
+   at void GTA_RP.DefaultDbContext.OnConfiguring(DbContextOptionsBuilder optionsBuilder) in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\DbContext.cs:line 13
+   at IServiceProvider Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at IDbContextDependencies Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at IModel Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at IEntityType Microsoft.EntityFrameworkCore.Internal.InternalDbSet<TEntity>.get_EntityType()
+   at EntityQueryable<TEntity> Microsoft.EntityFrameworkCore.Internal.InternalDbSet<TEntity>.get_EntityQueryable()
+   at IQueryProvider Microsoft.EntityFrameworkCore.Internal.InternalDbSet<TEntity>.System.Linq.IQueryable.get_Provider()
+   at int System.Linq.Queryable.Count<TSource>(IQueryable<TSource> source)
+   at void GTA_RP.Main.OnResourceStart() in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\Main.cs:line 12
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[27/04/2020 23:37:52]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.Common'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:37:52]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Data.Common, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. The system cannot find the file specified.
+File name: 'System.Data.Common, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at DbContextOptionsBuilder Microsoft.EntityFrameworkCore.MySqlDbContextOptionsExtensions.UseMySql(DbContextOptionsBuilder optionsBuilder, string connectionString, Action<MySqlDbContextOptionsBuilder> mySqlOptionsAction)
+   at void GTA_RP.DefaultDbContext.OnConfiguring(DbContextOptionsBuilder optionsBuilder) in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\DbContext.cs:line 13
+
+
+=========================================================
+
+==================[27/04/2020 23:38:20]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Data.Common, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. The system cannot find the file specified.
+   at DbContextOptionsBuilder Microsoft.EntityFrameworkCore.MySqlDbContextOptionsExtensions.UseMySql(DbContextOptionsBuilder optionsBuilder, string connectionString, Action<MySqlDbContextOptionsBuilder> mySqlOptionsAction)
+   at void GTA_RP.DefaultDbContext.OnConfiguring(DbContextOptionsBuilder optionsBuilder) in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\DbContext.cs:line 13
+   at IServiceProvider Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at IDbContextDependencies Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at IModel Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at IEntityType Microsoft.EntityFrameworkCore.Internal.InternalDbSet<TEntity>.get_EntityType()
+   at EntityQueryable<TEntity> Microsoft.EntityFrameworkCore.Internal.InternalDbSet<TEntity>.get_EntityQueryable()
+   at IQueryProvider Microsoft.EntityFrameworkCore.Internal.InternalDbSet<TEntity>.System.Linq.IQueryable.get_Provider()
+   at int System.Linq.Queryable.Count<TSource>(IQueryable<TSource> source)
+   at void GTA_RP.Main.OnResourceStart() in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\Main.cs:line 12
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[27/04/2020 23:38:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:38:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.ComponentModel.TypeConverter'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[27/04/2020 23:38:27]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.ComponentModel.TypeConverter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. The system cannot find the file specified.
+File name: 'System.ComponentModel.TypeConverter, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at DbContextOptionsBuilder Microsoft.EntityFrameworkCore.MySqlDbContextOptionsExtensions.UseMySql(DbContextOptionsBuilder optionsBuilder, string connectionString, Action<MySqlDbContextOptionsBuilder> mySqlOptionsAction)
+   at void GTA_RP.DefaultDbContext.OnConfiguring(DbContextOptionsBuilder optionsBuilder) in D:\GTA RP DEV\server\server-files\bridge\resources\GTA_RP\DbContext.cs:line 13
+
+
+=========================================================
+
+==================[27/04/2020 23:39:01]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at bool Newtonsoft.Json.Serialization.DefaultContractResolver.CanConvertToString(Type type)
+   at JsonContract Newtonsoft.Json.Serialization.DefaultContractResolver.CreateContract(Type objectType)
+
+
+=========================================================
+
+==================[27/04/2020 23:39:22]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at bool Newtonsoft.Json.Serialization.DefaultContractResolver.CanConvertToString(Type type)
+   at JsonContract Newtonsoft.Json.Serialization.DefaultContractResolver.CreateContract(Type objectType)
+
+
+=========================================================
+
+==================[28/04/2020 01:12:31]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:12:31]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\System.Data.SQLite.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\System.Data.SQLite.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28/04/2020 01:12:31]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Data.SQLite, Version=1.0.112.1, Culture=neutral, PublicKeyToken=db937bc2d44ff139'. The system cannot find the file specified.
+   at new trueRp.Class1()
+   --- End of inner exception stack trace ---
+   at object RuntimeTypeHandle.CreateInstance(RuntimeType type, bool publicOnly, ref bool canBeCached, ref RuntimeMethodHandleInternal ctor)
+   at object RuntimeType.CreateInstanceSlow(bool publicOnly, bool skipCheckThis, bool fillCache, ref StackCrawlMark stackMark)
+=========================================================
+
+==================[28/04/2020 01:16:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:16:42]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\System.Data.SQLite.dll'. The system cannot find the file specified.
+File name: 'D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\bin\Debug\netcoreapp2.0\System.Data.SQLite.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28/04/2020 01:16:42]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Data.SQLite, Version=1.0.112.1, Culture=neutral, PublicKeyToken=db937bc2d44ff139'. The system cannot find the file specified.
+   at new trueRp.Class1()
+   --- End of inner exception stack trace ---
+   at object RuntimeTypeHandle.CreateInstance(RuntimeType type, bool publicOnly, ref bool canBeCached, ref RuntimeMethodHandleInternal ctor)
+   at object RuntimeType.CreateInstanceSlow(bool publicOnly, bool skipCheckThis, bool fillCache, ref StackCrawlMark stackMark)
+=========================================================
+
+==================[28/04/2020 01:21:21]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:21:21]==================
+System.DllNotFoundException: Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at SQLiteErrorCode System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at bool System.Data.SQLite.SQLite3.StaticIsInitialized()
+=========================================================
+
+==================[28/04/2020 01:25:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:25:23]==================
+System.DllNotFoundException: Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at SQLiteErrorCode System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at bool System.Data.SQLite.SQLite3.StaticIsInitialized()
+=========================================================
+
+==================[28/04/2020 01:28:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:28:32]==================
+System.DllNotFoundException: Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at SQLiteErrorCode System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at bool System.Data.SQLite.SQLite3.StaticIsInitialized()
+=========================================================
+
+==================[28/04/2020 01:30:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:30:10]==================
+System.DllNotFoundException: Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at SQLiteErrorCode System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at bool System.Data.SQLite.SQLite3.StaticIsInitialized()
+=========================================================
+
+==================[28/04/2020 01:33:22]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:33:22]==================
+System.DllNotFoundException: Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at SQLiteErrorCode System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at bool System.Data.SQLite.SQLite3.StaticIsInitialized()
+=========================================================
+
+==================[28/04/2020 01:33:55]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:33:55]==================
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at SQLiteErrorCode System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at bool System.Data.SQLite.SQLite3.StaticIsInitialized()
+=========================================================
+
+==================[28/04/2020 01:34:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:34:18]==================
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at SQLiteErrorCode System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at bool System.Data.SQLite.SQLite3.StaticIsInitialized()
+=========================================================
+
+==================[28/04/2020 01:36:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:36:23]==================
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at SQLiteErrorCode System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at bool System.Data.SQLite.SQLite3.StaticIsInitialized()
+=========================================================
+
+==================[28/04/2020 01:38:28]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Data.SQLite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28/04/2020 01:38:28]==================
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at SQLiteErrorCode System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at bool System.Data.SQLite.SQLite3.StaticIsInitialized()
+=========================================================
+
+==================[28/04/2020 01:39:12]==================
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at IntPtr System.Data.SQLite.UnsafeNativeMethods.interop_compileoption_get(int N)
+   at string System.Data.SQLite.SQLite3.get_InteropCompileOptions()
+=========================================================
+
+==================[28/04/2020 01:39:15]==================
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at IntPtr System.Data.SQLite.UnsafeNativeMethods.interop_sourceid()
+   at string System.Data.SQLite.SQLiteConnection.get_InteropSourceId()
+=========================================================
+
+==================[28/04/2020 01:39:18]==================
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at IntPtr System.Data.SQLite.UnsafeNativeMethods.interop_libversion()
+   at string System.Data.SQLite.SQLiteConnection.get_InteropVersion()
+=========================================================
+
+==================[28/04/2020 01:39:18]==================
+System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at IntPtr System.Data.SQLite.UnsafeNativeMethods.sqlite3_compileoption_get(int N)
+   at string System.Data.SQLite.SQLite3.get_SQLiteCompileOptions()
+=========================================================
