@@ -13,7 +13,7 @@ namespace trueRp
             try{
                 using (var dbContext = new DefaultDbContext())
                 {
-                    //Console.WriteLine("Connection " + dbContext.testMemoryCon());
+                    //Console.WriteLine("Connection " + dbContext.testMemoryCon()); // WARN this closes the connection so err if uncoment
                     Console.WriteLine("Players count = " + dbContext.Players.Count());
                 }
                 //using var con = new SQLiteConnection(conString);
