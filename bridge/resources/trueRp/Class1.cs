@@ -15,6 +15,8 @@ namespace trueRp
                 {
                     //Console.WriteLine("Connection " + dbContext.testMemoryCon()); // WARN this closes the connection so err if uncoment
                     Console.WriteLine("Players count = " + dbContext.Players.Count());
+                    Player player = dbContext.Players.OrderBy(p => p.ID).First();
+                    Console.WriteLine("First player: " + player.username + " | " + player.status);
                 }
                 //using var con = new SQLiteConnection(conString);
                 //con.Open();
