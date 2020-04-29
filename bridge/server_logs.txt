@@ -1250,3 +1250,137 @@ admin: loaded 9 commands(s)
 -> Starting trueRp resource..
 trueRp: loading scripts.. found 1 script(s)
 trueRp: instantiating trueRp.Class1..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 29/04/2020 20:59:47
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 29/04/2020 21:01:01
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 29/04/2020 21:04:40
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 29/04/2020 21:10:29
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 29/04/2020 21:11:56
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+-> Resource trueRp started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 29/04/2020 21:13:19
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 29/04/2020 21:14:35
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+-> Resource trueRp started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 29/04/2020 21:15:08
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+-> Resource trueRp started!
+Started! Waiting for connections..
