@@ -1,5 +1,6 @@
 ﻿using System;
 using GTANetworkAPI;
+using System.Linq;
 //using System.Data.SQLite;
 
 namespace trueRp
@@ -12,7 +13,8 @@ namespace trueRp
             try{
                 using (var dbContext = new DefaultDbContext())
                 {
-                    Console.WriteLine("Hello Success!" + dbContext.testMemoryCon());
+                    //Console.WriteLine("Connection " + dbContext.testMemoryCon());
+                    Console.WriteLine("Players count = " + dbContext.Players.Count());
                 }
                 //using var con = new SQLiteConnection(conString);
                 //con.Open();

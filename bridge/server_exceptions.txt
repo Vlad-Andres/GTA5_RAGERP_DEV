@@ -2397,3 +2397,1785 @@ System.IO.FileNotFoundException: Could not load the specified file.
 File name: 'SQLitePCLRaw.core'
    at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
 =========================================================
+
+==================[29/04/2020 21:37:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:53]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Configuration.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Data.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.batteries_v2'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.provider.e_sqlite3'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.core'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 14: 'unable to open database file'.
+   at void Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(int rc, sqlite3 db)
+=========================================================
+
+==================[29/04/2020 21:37:54]==================
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 14: 'unable to open database file'.
+   at void Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(int rc, sqlite3 db)
+   at void Microsoft.Data.Sqlite.SqliteConnection.Open()
+   at void Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(bool errorsExpected)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:12]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Configuration.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:12]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Data.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:40:12]==================
+System.ArgumentException: Keyword not supported: 'uri'.
+   at Keywords Microsoft.Data.Sqlite.SqliteConnectionStringBuilder.GetIndex(string keyword)
+=========================================================
+
+==================[29/04/2020 21:40:12]==================
+System.ArgumentException: Keyword not supported: 'uri'.
+   at Keywords Microsoft.Data.Sqlite.SqliteConnectionStringBuilder.GetIndex(string keyword)
+   at void Microsoft.Data.Sqlite.SqliteConnectionStringBuilder.set_Item(string keyword, object value)
+   at void System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(string value)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Configuration.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Data.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.batteries_v2'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.provider.e_sqlite3'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 21:41:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.core'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Collections.Immutable'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:05:42]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+=========================================================
+
+==================[29/04/2020 22:05:43]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Could not find or load a specific file. (Exception from HRESULT: 0x80131621)
+File name: 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ---> System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+   at Assembly System.Reflection.Assembly.LoadFrom(string assemblyFile)
+   at Assembly System.Reflection.Assembly.LoadFromResolveHandler(object sender, ResolveEventArgs args)
+   at RuntimeAssembly AppDomain.OnAssemblyResolveEvent(RuntimeAssembly assembly, string assemblyFullName)
+   at IReadOnlyList<RelationshipCandidate> Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.FindRelationshipCandidates(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.DiscoverRelationships(InternalEntityTypeBuilder entityTypeBuilder)
+
+
+=========================================================
+
+==================[29/04/2020 22:05:43]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Could not find or load a specific file. (Exception from HRESULT: 0x80131621)
+File name: 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ---> System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+   at Assembly System.Reflection.Assembly.LoadFrom(string assemblyFile)
+   at Assembly System.Reflection.Assembly.LoadFromResolveHandler(object sender, ResolveEventArgs args)
+   at RuntimeAssembly AppDomain.OnAssemblyResolveEvent(RuntimeAssembly assembly, string assemblyFullName)
+   at IReadOnlyList<RelationshipCandidate> Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.FindRelationshipCandidates(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.DiscoverRelationships(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ImmediateConventionScope.OnEntityTypeAdded(InternalEntityTypeBuilder entityTypeBuilder)
+   at OnEntityTypeAddedNode Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+RunVisitor.VisitOnEntityTypeAdded(OnEntityTypeAddedNode node)
+   at ConventionScope Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ConventionVisitor.VisitConventionScope(ConventionScope node)
+   at void Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ConventionBatch.Run()
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Entity(in TypeIdentity type, ConfigurationSource configurationSource, bool allowOwned, bool throwOnQuery)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Entity(Type type, ConfigurationSource configurationSource, bool allowOwned, bool throwOnQuery)
+   at EntityTypeBuilder Microsoft.EntityFrameworkCore.ModelBuilder.Entity(Type type)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelCustomizer.FindSets(ModelBuilder modelBuilder, DbContext context)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelCustomizer.FindSets(ModelBuilder modelBuilder, DbContext context)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelCustomizer.Customize(ModelBuilder modelBuilder, DbContext context)
+   at IModel Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at void System.Lazy<T>.ViaFactory(LazyThreadSafetyMode mode)
+
+
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Collections.Immutable'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:26]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+=========================================================
+
+==================[29/04/2020 22:06:26]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Could not find or load a specific file. (Exception from HRESULT: 0x80131621)
+File name: 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ---> System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+   at Assembly System.Reflection.Assembly.LoadFrom(string assemblyFile)
+   at Assembly System.Reflection.Assembly.LoadFromResolveHandler(object sender, ResolveEventArgs args)
+   at RuntimeAssembly AppDomain.OnAssemblyResolveEvent(RuntimeAssembly assembly, string assemblyFullName)
+   at IReadOnlyList<RelationshipCandidate> Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.FindRelationshipCandidates(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.DiscoverRelationships(InternalEntityTypeBuilder entityTypeBuilder)
+
+
+=========================================================
+
+==================[29/04/2020 22:06:26]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Could not find or load a specific file. (Exception from HRESULT: 0x80131621)
+File name: 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ---> System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+   at Assembly System.Reflection.Assembly.LoadFrom(string assemblyFile)
+   at Assembly System.Reflection.Assembly.LoadFromResolveHandler(object sender, ResolveEventArgs args)
+   at RuntimeAssembly AppDomain.OnAssemblyResolveEvent(RuntimeAssembly assembly, string assemblyFullName)
+   at IReadOnlyList<RelationshipCandidate> Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.FindRelationshipCandidates(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.DiscoverRelationships(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ImmediateConventionScope.OnEntityTypeAdded(InternalEntityTypeBuilder entityTypeBuilder)
+   at OnEntityTypeAddedNode Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+RunVisitor.VisitOnEntityTypeAdded(OnEntityTypeAddedNode node)
+   at ConventionScope Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ConventionVisitor.VisitConventionScope(ConventionScope node)
+   at void Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ConventionBatch.Run()
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Entity(in TypeIdentity type, ConfigurationSource configurationSource, bool allowOwned, bool throwOnQuery)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Entity(Type type, ConfigurationSource configurationSource, bool allowOwned, bool throwOnQuery)
+   at EntityTypeBuilder Microsoft.EntityFrameworkCore.ModelBuilder.Entity(Type type)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelCustomizer.FindSets(ModelBuilder modelBuilder, DbContext context)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelCustomizer.FindSets(ModelBuilder modelBuilder, DbContext context)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelCustomizer.Customize(ModelBuilder modelBuilder, DbContext context)
+   at IModel Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at void System.Lazy<T>.ViaFactory(LazyThreadSafetyMode mode)
+
+
+=========================================================
+
+==================[29/04/2020 22:06:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Configuration.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Data.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.batteries_v2'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.provider.e_sqlite3'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:06:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.core'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Collections.Immutable'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:19]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+=========================================================
+
+==================[29/04/2020 22:07:19]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Could not find or load a specific file. (Exception from HRESULT: 0x80131621)
+File name: 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ---> System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+   at Assembly System.Reflection.Assembly.LoadFrom(string assemblyFile)
+   at Assembly System.Reflection.Assembly.LoadFromResolveHandler(object sender, ResolveEventArgs args)
+   at RuntimeAssembly AppDomain.OnAssemblyResolveEvent(RuntimeAssembly assembly, string assemblyFullName)
+   at IReadOnlyList<RelationshipCandidate> Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.FindRelationshipCandidates(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.DiscoverRelationships(InternalEntityTypeBuilder entityTypeBuilder)
+
+
+=========================================================
+
+==================[29/04/2020 22:07:19]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Could not find or load a specific file. (Exception from HRESULT: 0x80131621)
+File name: 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ---> System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+   at Assembly System.Reflection.Assembly.LoadFrom(string assemblyFile)
+   at Assembly System.Reflection.Assembly.LoadFromResolveHandler(object sender, ResolveEventArgs args)
+   at RuntimeAssembly AppDomain.OnAssemblyResolveEvent(RuntimeAssembly assembly, string assemblyFullName)
+   at IReadOnlyList<RelationshipCandidate> Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.FindRelationshipCandidates(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.DiscoverRelationships(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ImmediateConventionScope.OnEntityTypeAdded(InternalEntityTypeBuilder entityTypeBuilder)
+   at OnEntityTypeAddedNode Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+RunVisitor.VisitOnEntityTypeAdded(OnEntityTypeAddedNode node)
+   at ConventionScope Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ConventionVisitor.VisitConventionScope(ConventionScope node)
+   at void Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ConventionBatch.Run()
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Entity(in TypeIdentity type, ConfigurationSource configurationSource, bool allowOwned, bool throwOnQuery)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Entity(Type type, ConfigurationSource configurationSource, bool allowOwned, bool throwOnQuery)
+   at EntityTypeBuilder Microsoft.EntityFrameworkCore.ModelBuilder.Entity(Type type)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelCustomizer.FindSets(ModelBuilder modelBuilder, DbContext context)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelCustomizer.FindSets(ModelBuilder modelBuilder, DbContext context)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelCustomizer.Customize(ModelBuilder modelBuilder, DbContext context)
+   at IModel Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at void System.Lazy<T>.ViaFactory(LazyThreadSafetyMode mode)
+
+
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:07:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:18]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:08:19]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Collections.Immutable'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+=========================================================
+
+==================[29/04/2020 22:09:10]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Could not find or load a specific file. (Exception from HRESULT: 0x80131621)
+File name: 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ---> System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+   at Assembly System.Reflection.Assembly.LoadFrom(string assemblyFile)
+   at Assembly System.Reflection.Assembly.LoadFromResolveHandler(object sender, ResolveEventArgs args)
+   at RuntimeAssembly AppDomain.OnAssemblyResolveEvent(RuntimeAssembly assembly, string assemblyFullName)
+   at IReadOnlyList<RelationshipCandidate> Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.FindRelationshipCandidates(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.DiscoverRelationships(InternalEntityTypeBuilder entityTypeBuilder)
+
+
+=========================================================
+
+==================[29/04/2020 22:09:11]==================
+System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Could not find or load a specific file. (Exception from HRESULT: 0x80131621)
+File name: 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ---> System.IO.FileLoadException: Could not load file or assembly 'System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+   at Assembly System.Reflection.Assembly.LoadFrom(string assemblyFile)
+   at Assembly System.Reflection.Assembly.LoadFromResolveHandler(object sender, ResolveEventArgs args)
+   at RuntimeAssembly AppDomain.OnAssemblyResolveEvent(RuntimeAssembly assembly, string assemblyFullName)
+   at IReadOnlyList<RelationshipCandidate> Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.FindRelationshipCandidates(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.RelationshipDiscoveryConvention.DiscoverRelationships(InternalEntityTypeBuilder entityTypeBuilder)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ImmediateConventionScope.OnEntityTypeAdded(InternalEntityTypeBuilder entityTypeBuilder)
+   at OnEntityTypeAddedNode Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+RunVisitor.VisitOnEntityTypeAdded(OnEntityTypeAddedNode node)
+   at ConventionScope Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ConventionVisitor.VisitConventionScope(ConventionScope node)
+   at void Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ConventionBatch.Run()
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Entity(in TypeIdentity type, ConfigurationSource configurationSource, bool allowOwned, bool throwOnQuery)
+   at InternalEntityTypeBuilder Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Entity(Type type, ConfigurationSource configurationSource, bool allowOwned, bool throwOnQuery)
+   at EntityTypeBuilder Microsoft.EntityFrameworkCore.ModelBuilder.Entity(Type type)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelCustomizer.FindSets(ModelBuilder modelBuilder, DbContext context)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelCustomizer.FindSets(ModelBuilder modelBuilder, DbContext context)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelCustomizer.Customize(ModelBuilder modelBuilder, DbContext context)
+   at IModel Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at void System.Lazy<T>.ViaFactory(LazyThreadSafetyMode mode)
+
+
+=========================================================
+
+==================[29/04/2020 22:10:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:04]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:05]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:05]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:05]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:05]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:05]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:10:05]==================
+System.InvalidOperationException: The entity type 'Player' requires a primary key to be defined.
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateNonNullPrimaryKeys(IModel model)
+=========================================================
+
+==================[29/04/2020 22:10:05]==================
+System.InvalidOperationException: The entity type 'Player' requires a primary key to be defined.
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateNonNullPrimaryKeys(IModel model)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.Validate(IModel model)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelValidator.Validate(IModel model)
+   at void Microsoft.EntityFrameworkCore.Internal.SqliteModelValidator.Validate(IModel model)
+   at InternalModelBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ValidatingConvention.Apply(InternalModelBuilder modelBuilder)
+   at InternalModelBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at IModel Microsoft.EntityFrameworkCore.ModelBuilder.FinalizeModel()
+   at void System.Lazy<T>.ViaFactory(LazyThreadSafetyMode mode)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:11:42]==================
+System.InvalidOperationException: The entity type 'Player' requires a primary key to be defined.
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateNonNullPrimaryKeys(IModel model)
+=========================================================
+
+==================[29/04/2020 22:11:42]==================
+System.InvalidOperationException: The entity type 'Player' requires a primary key to be defined.
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateNonNullPrimaryKeys(IModel model)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.Validate(IModel model)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelValidator.Validate(IModel model)
+   at void Microsoft.EntityFrameworkCore.Internal.SqliteModelValidator.Validate(IModel model)
+   at InternalModelBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ValidatingConvention.Apply(InternalModelBuilder modelBuilder)
+   at InternalModelBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at IModel Microsoft.EntityFrameworkCore.ModelBuilder.FinalizeModel()
+   at void System.Lazy<T>.ViaFactory(LazyThreadSafetyMode mode)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:27]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:13:28]==================
+System.InvalidOperationException: The entity type 'Player' requires a primary key to be defined.
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateNonNullPrimaryKeys(IModel model)
+=========================================================
+
+==================[29/04/2020 22:13:28]==================
+System.InvalidOperationException: The entity type 'Player' requires a primary key to be defined.
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateNonNullPrimaryKeys(IModel model)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.Validate(IModel model)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelValidator.Validate(IModel model)
+   at void Microsoft.EntityFrameworkCore.Internal.SqliteModelValidator.Validate(IModel model)
+   at InternalModelBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ValidatingConvention.Apply(InternalModelBuilder modelBuilder)
+   at InternalModelBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at IModel Microsoft.EntityFrameworkCore.ModelBuilder.FinalizeModel()
+   at void System.Lazy<T>.ViaFactory(LazyThreadSafetyMode mode)
+=========================================================
+
+==================[29/04/2020 22:15:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:44]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:45]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:45]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:45]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:45]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:45]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:45]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:15:45]==================
+System.InvalidOperationException: The entity type 'Player' requires a primary key to be defined.
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateNonNullPrimaryKeys(IModel model)
+=========================================================
+
+==================[29/04/2020 22:15:45]==================
+System.InvalidOperationException: The entity type 'Player' requires a primary key to be defined.
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.ValidateNonNullPrimaryKeys(IModel model)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.ModelValidator.Validate(IModel model)
+   at void Microsoft.EntityFrameworkCore.Infrastructure.RelationalModelValidator.Validate(IModel model)
+   at void Microsoft.EntityFrameworkCore.Internal.SqliteModelValidator.Validate(IModel model)
+   at InternalModelBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ValidatingConvention.Apply(InternalModelBuilder modelBuilder)
+   at InternalModelBuilder Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher+ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at IModel Microsoft.EntityFrameworkCore.ModelBuilder.FinalizeModel()
+   at void System.Lazy<T>.ViaFactory(LazyThreadSafetyMode mode)
+=========================================================
+
+==================[29/04/2020 22:17:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:24]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Configuration.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Data.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.batteries_v2'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.provider.e_sqlite3'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.core'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:56]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Configuration.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Data.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.batteries_v2'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.provider.e_sqlite3'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[29/04/2020 22:17:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.core'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
