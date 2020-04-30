@@ -6,3 +6,4 @@ bridge/server_logs.txt
 bridge/resources/trueRp/obj/Debug/netcoreapp2.0/trueRp.csprojAssemblyReference.cache
 *.cache
 bridge/server_exceptions.txt
+bridge/server_exceptions.txt

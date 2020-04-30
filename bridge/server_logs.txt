@@ -1672,3 +1672,93 @@ trueRp: loading scripts.. found 1 script(s)
 trueRp: instantiating trueRp.Class1..
 -> Resource trueRp started!
 Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.5.1)..
+-> SERVER STARTED AT 01/05/2020 00:59:11
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+trueRp: loading remote events.. found 1 remote event(s)
+trueRp: loaded 1 remote event(s)
+-> Resource trueRp started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01/05/2020 01:12:34
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+trueRp: loading remote events.. found 1 remote event(s)
+trueRp: loaded 1 remote event(s)
+-> Resource trueRp started!
+Started! Waiting for connections..
+[Login Attempt] Username Max | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01/05/2020 01:34:18
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+trueRp: loading commands.. found 1 command(s)
+trueRp: loaded 1 commands(s)
+trueRp: loading remote events.. found 1 remote event(s)
+trueRp: loaded 1 remote event(s)
+-> Resource trueRp started!
+Started! Waiting for connections..
+[Login Attempt] Username Vlad | Password: 1234
+[Login Attempt] Username Vlad | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01/05/2020 01:43:22
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..
+trueRp: loading commands.. found 1 command(s)
+trueRp: loaded 1 commands(s)
+trueRp: loading remote events.. found 1 remote event(s)
+trueRp: loaded 1 remote event(s)
+-> Resource trueRp started!
+Started! Waiting for connections..
+[Login Attempt] Username vlad | Password: sds
+[Login Attempt] Username vlad | Password: 123
+[Login Attempt] Username Vlad | Password: 123
