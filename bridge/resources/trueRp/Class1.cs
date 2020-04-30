@@ -9,7 +9,6 @@ namespace trueRp
     {
        public Class1()
         {
-            string conString = "Data Source=:memory:";
             try{
                 using (var dbContext = new DefaultDbContext())
                 {
