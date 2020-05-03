@@ -20,8 +20,12 @@
   <ItemGroup>
     <!--<PackageReference Include="System.Data.SQLite.Core" Version="1.0.103"/>
     <PackageReference Include="SQLite.Interop.dll" Version="1.0.103" /> -->
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0"/>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0"/>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.0"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.0" />
   </ItemGroup>
 </Project>
