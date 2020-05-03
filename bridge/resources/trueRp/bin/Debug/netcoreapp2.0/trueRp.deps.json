@@ -9,6 +9,7 @@
       "trueRp/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "2.2.0",
+          "Microsoft.EntityFrameworkCore.Design": "2.2.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "2.2.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.2.0",
           "Bootstrapper": "0.3.5.1"

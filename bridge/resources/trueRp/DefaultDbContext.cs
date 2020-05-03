@@ -11,7 +11,7 @@ namespace trueRp
     public class DefaultDbContext : DbContext {
 
             // Connection string, more details below 
-            private const string connectionString = @"Data Source=D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\true-rp.db";
+            private const string connectionString = @"Data Source=D:\GTA RP DEV\server\server-files\bridge\resources\trueRp\true-rp_test.db";
 
             // Initialize a new MySQL connection with the given connection parameters 
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -26,6 +26,7 @@ namespace trueRp
 
 
             // Account model class created somewhere else 
-            public DbSet<Player> Players { get; set; }
+            public DbSet<Model.Player> Players { get; set; }
+            public DbSet<Model.Contract> Contracts { get; set; }
     }
 }
