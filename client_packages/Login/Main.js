@@ -8,8 +8,8 @@ mp.events.add('loginToServer', (username, password) => {
 	mp.events.callRemote('OnPlayerLoginAttempt', username, password);
 });
 
-mp.events.add('registerToServer', (username, password) => {
-	mp.events.callRemote('OnPlayerRegisterAttempt', username, password);
+mp.events.add('registerToServer', (username, password, email) => {
+	mp.events.callRemote('OnPlayerRegisterAttempt', username, password, email);
 });
 
 mp.events.add('LoginResult', (result) => {

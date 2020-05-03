@@ -2,6 +2,6 @@ $('#loginBtn').click(() => {
 	mp.trigger('loginToServer', $('#usernameTxt').val(), $('#passwordTxt').val());
 });
 
-$('#registerButton').click(() => {
-	mp.trigger('registerToServer', $('#registerUsernameText').val(), $('#registerPasswordText').val());
+$('#registerBtn').click(() => {
+	mp.trigger('registerToServer', $('#usernameTxt').val(), $('#passwordTxt').val(), $('#emailTxt').val());
 });

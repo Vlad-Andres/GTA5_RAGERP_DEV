@@ -28,15 +28,26 @@ namespace trueRp
             }
         }
 
-        [RemoteEvent("OnPlayerLoginAttempt")] // triggered in Login/Main.js
-        public void OnPlayerLoginAttempt(Client player, string username, string password){
-            NAPI.Util.ConsoleOutput($"[Login Attempt] Username {username} | Password: {password}");
+        //Moved in Controller.Login.OnPlayerLoginAttempt
 
-            if(username == "Vlad" && password == "123"){
-                    player.TriggerEvent("LoginResult", 1);
-            }
-            else player.TriggerEvent("LoginResult", 0);
-        }
+        // [RemoteEvent("OnPlayerLoginAttempt")] // triggered in Login/Main.js 
+        // public void OnPlayerLoginAttempt(Client player, string username, string password){
+        //     NAPI.Util.ConsoleOutput($"[Login Attempt] Username {username} | Password: {password}");
+
+        //     if(username == "Vlad" && password == "123"){
+        //             player.TriggerEvent("LoginResult", 1);
+        //     }
+        //     else player.TriggerEvent("LoginResult", 0);
+        // }
+
+
+
+
+
+
+
+
+
 
         // [Command("login")]
         // public void Login(Client player){

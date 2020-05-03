@@ -10,6 +10,13 @@ namespace trueRp.Model{
             this.Job = new Job();
         }
 
+        public Player(string Username, string Password, string Email) : this(){
+            this.Username = Username;
+            this.Password = Password;
+            this.Email = Email;
+            this.Balance = 2000;
+        }
+
         [Key]
         public int PlayerID { get; set; }
         
@@ -17,6 +24,7 @@ namespace trueRp.Model{
 
         public string Username { get; set; }
         public string Password { get; set; }
+        public string Email { get; set; }
         public Types.PlayerStatus Status { get; set; }
         public double Balance { get; set; }
         public int JobId { get; set; }
