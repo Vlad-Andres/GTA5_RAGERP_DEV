@@ -6,10 +6,13 @@ namespace trueRp.Model{
     [Table("Inventory")]
     public class Inventory{
         [Key]
-        public int inventoryID { get; set; }
-        public int playerID { get; set; }
-        public int itemID { get; set; }
-        public int count { get; set; }
+        public int InventoryID { get; set; }
+        public int PlayerID { get; set; }
+        public int ItemCode { get; set; }
+        public int Amount { get; set; }
+
+        [ForeignKey("PlayerID")]
+        public Player Player { get; set; }
     
     }
 }

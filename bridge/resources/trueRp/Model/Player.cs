@@ -6,20 +6,26 @@ namespace trueRp.Model{
     [Table("Player")]
     public class Player{
         public Player(){
-            this.inventory = new Inventory();
+            this.Inventory = new Inventory();
+            this.Job = new Job();
         }
 
         [Key]
-        public int playerID { get; set; }
-        public string username { get; set; }
-        public string password { get; set; }
-        public enum status{ 
-            ordinary,
-            admin
-        }
-        public double balance { get; set; }
-        public int inventoryID { get; set; }
+        public int PlayerID { get; set; }
         
-        public Inventory inventory { get; set; }
+        public int InventoryID { get; set; }
+
+        public string Username { get; set; }
+        public string Password { get; set; }
+        public Types.PlayerStatus Status { get; set; }
+        public double Balance { get; set; }
+        public int JobId { get; set; }
+
+       
+        [ForeignKey("InventoryID")]
+        public Inventory Inventory { get; set; }
+        
+        [ForeignKey("JobId")]
+        public Job Job { get; set; }
     }
 }

@@ -6,18 +6,15 @@ namespace trueRp.Model{
     [Table("Contract")]
     public class Contract{
         [Key]
-        public int contractID { get; set; }
-        public enum typeContract{
-            Buy,
-            Sell
-        }
+        public int ContractID { get; set; }
+        public Types.ContractTypes TypeContract { get; set; }
         [Column(TypeName="Date")]
-        public DateTime date { get; set; }
-        public int playerID { get; set; }
-        public int propertyID { get; set; }
+        public DateTime Date { get; set; }
+        public int PlayerID { get; set; }
+        public int PropertyID { get; set; }
 
-        public Player player { get; set; }
-        public Property property { get; set; }
+        public Player Player { get; set; }
+        public Property Property { get; set; }
         
     }
 }
