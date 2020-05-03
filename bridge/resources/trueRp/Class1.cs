@@ -12,10 +12,13 @@ namespace trueRp
             try{
                 using (var dbContext = new DefaultDbContext())
                 {
+                    int count = dbContext.Players.Count();
                     //Console.WriteLine("Connection " + dbContext.testMemoryCon()); // WARN this closes the connection so err if uncoment
-                    Console.WriteLine("Players count = " + dbContext.Players.Count());
-                    Player player = dbContext.Players.OrderBy(p => p.ID).First();
-                    Console.WriteLine("First player: " + player.username + " | " + player.status);
+                    Console.WriteLine("Players count = " + count);
+                    if (count > 0){
+                        Model.Player player = dbContext.Players.OrderBy(p => p.PlayerID).First();
+                        Console.WriteLine("First player: " + player.Username + " | " + player.Status);
+                    }
                 }
                 //using var con = new SQLiteConnection(conString);
                 //con.Open();

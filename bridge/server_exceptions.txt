@@ -4749,3 +4749,141 @@ System.IO.FileNotFoundException: Could not load the specified file.
 File name: 'SQLitePCLRaw.core'
    at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
 =========================================================
+
+==================[03/05/2020 23:32:31]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Relational'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Interactive.Async'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.DependencyInjection'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Logging'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Remotion.Linq'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Memory'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Options'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Caching.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Primitives'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:32]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.EntityFrameworkCore.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Extensions.Configuration.Abstractions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'Microsoft.Data.Sqlite'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.batteries_v2'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:34]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.provider.e_sqlite3'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:34]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'SQLitePCLRaw.core'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[03/05/2020 23:32:34]==================
+System.InvalidOperationException: Sequence contains no elements
+   at TSource System.Linq.Enumerable.First<TSource>(IEnumerable<TSource> source)
+=========================================================
+
+==================[03/05/2020 23:32:34]==================
+System.InvalidOperationException: Sequence contains no elements
+   at TSource System.Linq.Enumerable.First<TSource>(IEnumerable<TSource> source)
+   at IEnumerator<T> Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider+ResultEnumerable<T>.GetEnumerator()
+   at IEnumerable<TOut> Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider._TrackEntities<TOut, TIn>(IEnumerable<TOut> results, QueryContext queryContext, IList<EntityTrackingInfo> entityTrackingInfos, IList<Func<TIn, object>> entityAccessors)+MoveNext()
+   at bool Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider+ExceptionInterceptor<T>+EnumeratorExceptionInterceptor.MoveNext()
+=========================================================
+
+==================[03/05/2020 23:32:34]==================
+System.InvalidOperationException: Sequence contains no elements
+   at TSource System.Linq.Enumerable.First<TSource>(IEnumerable<TSource> source)
+   at IEnumerator<T> Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider+ResultEnumerable<T>.GetEnumerator()
+   at IEnumerable<TOut> Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider._TrackEntities<TOut, TIn>(IEnumerable<TOut> results, QueryContext queryContext, IList<EntityTrackingInfo> entityTrackingInfos, IList<Func<TIn, object>> entityAccessors)+MoveNext()
+   at bool Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider+ExceptionInterceptor<T>+EnumeratorExceptionInterceptor.MoveNext()
+   at TSource System.Linq.Enumerable.TryGetFirst<TSource>(IEnumerable<TSource> source, out bool found)
+   at TSource System.Linq.Enumerable.First<TSource>(IEnumerable<TSource> source)
+   at Func<QueryContext, TResult> Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.CompileQueryCore<TResult>(Expression query, IQueryModelGenerator queryModelGenerator, IDatabase database, IDiagnosticsLogger<Query> logger, Type contextType)+(QueryContext qc) => { }
+=========================================================

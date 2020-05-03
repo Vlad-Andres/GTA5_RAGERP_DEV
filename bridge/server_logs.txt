@@ -1762,3 +1762,19 @@ Started! Waiting for connections..
 [Login Attempt] Username vlad | Password: sds
 [Login Attempt] Username vlad | Password: 123
 [Login Attempt] Username Vlad | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 03/05/2020 23:32:27
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting admin resource..
+admin: loading scripts.. found 1 script(s)
+admin: compiling scripts..
+admin: instantiating Main.AdminScript..
+admin: loading server events.. found 2 server event(s)
+admin: loaded 2 server events(s)
+admin: loading commands.. found 9 command(s)
+admin: loaded 9 commands(s)
+-> Resource admin started!
+-> Starting trueRp resource..
+trueRp: loading scripts.. found 1 script(s)
+trueRp: instantiating trueRp.Class1..

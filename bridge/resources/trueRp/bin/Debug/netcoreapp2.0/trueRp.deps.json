@@ -12,7 +12,7 @@
           "Microsoft.EntityFrameworkCore.Design": "2.2.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "2.2.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.2.0",
-          "Bootstrapper": "0.3.5.1"
+          "Bootstrapper": "0.3.7.0"
         },
         "runtime": {
           "trueRp.dll": {}
@@ -771,11 +771,11 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
-      "Bootstrapper/0.3.5.1": {
+      "Bootstrapper/0.3.7.0": {
         "runtime": {
           "Bootstrapper.dll": {
-            "assemblyVersion": "0.3.5.1",
-            "fileVersion": "0.3.5.1"
+            "assemblyVersion": "0.3.7.0",
+            "fileVersion": "0.3.7.0"
           }
         }
       },
@@ -811,14 +811,6 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.VisualBasic/2.6.0.0": {
-        "runtime": {
-          "Microsoft.CodeAnalysis.VisualBasic.dll": {
-            "assemblyVersion": "2.6.0.0",
-            "fileVersion": "2.6.0.62329"
-          }
-        }
-      },
       "NeoSmart.Hashing/0.1.0.0": {
         "runtime": {
           "NeoSmart.Hashing.dll": {
@@ -832,6 +824,14 @@
           "xxHash.dll": {
             "assemblyVersion": "0.3.0.0",
             "fileVersion": "0.3.0.0"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.VisualBasic/2.6.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.VisualBasic.dll": {
+            "assemblyVersion": "2.6.0.0",
+            "fileVersion": "2.6.0.62329"
           }
         }
       },
@@ -1369,7 +1369,7 @@
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
-    "Bootstrapper/0.3.5.1": {
+    "Bootstrapper/0.3.7.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -1394,17 +1394,17 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.CodeAnalysis.VisualBasic/2.6.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "NeoSmart.Hashing/0.1.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
     "xxHash/0.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.VisualBasic/2.6.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
